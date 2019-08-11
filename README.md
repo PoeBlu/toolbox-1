@@ -2,12 +2,12 @@
 Curated list of useful libraries
 
 ## Data Annotation
-- [makesense.ai](https://www.makesense.ai/)
+- [makesense.ai](https://www.makesense.ai/): Image Annotation
 
 ## Interpretability
-- [keras-vis: Network Visualization for Keras](https://github.com/raghakot/keras-vis)
+- [keras-vis](https://github.com/raghakot/keras-vis): Network Visualization for Keras
 
 ## Scalability
 - **Pandas**
-  - [pandarallel](https://github.com/nalepae/pandarallel)
-  - [swifter](https://github.com/jmcarpenter2/swifter)
+  - [pandarallel](https://github.com/nalepae/pandarallel): Speed up .apply(...)
+  - [swifter](https://github.com/jmcarpenter2/swifter): Spped up .appy(...)
