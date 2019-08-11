@@ -8,3 +8,6 @@ Curated list of useful libraries
 
 ## Data Annotation
 - [makesense.ai](https://www.makesense.ai/)
+
+## Interpretability
+- [keras-vis: Network Visualization for Keras](https://github.com/raghakot/keras-vis)
