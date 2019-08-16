@@ -11,3 +11,6 @@ Curated list of useful libraries
 - **Pandas**
   - [pandarallel](https://github.com/nalepae/pandarallel): Speed up .apply(...)
   - [swifter](https://github.com/jmcarpenter2/swifter): Spped up .appy(...)
+  
+## NLP Models
+- [gp2client](https://github.com/rish-16/gpt2client)
