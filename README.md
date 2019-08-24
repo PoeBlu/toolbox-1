@@ -11,6 +11,9 @@ Curated list of useful libraries for day to day work
 ## Data Preparation
 - Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
 
+## Models
+- Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
 
