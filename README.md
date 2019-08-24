@@ -3,6 +3,7 @@ Curated list of useful libraries for day to day work
 
 ## Annotation
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
+- Annotate Text: [doccano](https://doccano.herokuapp.com/)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
