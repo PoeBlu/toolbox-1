@@ -26,3 +26,6 @@ Curated list of useful libraries for day to day work
 ## NLP
 - Use GP2 to generate text: [gp2client](https://github.com/rish-16/gpt2client)
 - Train own text generation RNN: [textgenrnn](https://github.com/minimaxir/textgenrnn)
+
+## Python
+- bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
