@@ -26,6 +26,7 @@ Curated list of useful libraries for day to day work
 ## NLP
 - Use GP2 to generate text: [gp2client](https://github.com/rish-16/gpt2client)
 - Train own text generation RNN: [textgenrnn](https://github.com/minimaxir/textgenrnn)
+- swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
 ## Python
 - bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
