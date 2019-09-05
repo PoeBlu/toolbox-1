@@ -28,5 +28,8 @@ Curated list of useful libraries for day to day work
 - Train own text generation RNN: [textgenrnn](https://github.com/minimaxir/textgenrnn)
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
+## RecSys
+- Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
+
 ## Python
 - bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
