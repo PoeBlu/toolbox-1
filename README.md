@@ -5,8 +5,9 @@ Curated list of useful libraries for day to day work
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
 - Annotate Text: [doccano](https://doccano.herokuapp.com/)
 
-## API
+## Python
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
+- Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
