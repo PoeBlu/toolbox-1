@@ -20,6 +20,7 @@ Curated list of useful libraries for day to day work
 
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
+- Get notified by slack/email when model training finishes: [knockknock](https://github.com/huggingface/knockknock)
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
