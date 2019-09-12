@@ -41,3 +41,4 @@ Curated list of useful libraries for day to day work
 ## Python
 - bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
+- Readymade common regex for email/phone etc: [CommonRegex](https://github.com/madisonmay/CommonRegex)
