@@ -43,3 +43,4 @@ Curated list of useful libraries for day to day work
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
 - Readymade common regex for email/phone etc: [CommonRegex](https://github.com/madisonmay/CommonRegex)
 - Verbal expressions for python: [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)
+- Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
