@@ -34,7 +34,7 @@ Curated list of useful libraries for day to day work
 - Scikit-learn like API for NLP transfer learning(BERT, GPT2, etc.): [finetune](https://github.com/IndicoDataSolutions/finetune)
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 - Summarize text using texrank: [textrank](https://github.com/summanlp/textrank)
-- Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell)
+- Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
