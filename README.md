@@ -35,6 +35,7 @@ Curated list of useful libraries for day to day work
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 - Summarize text using texrank: [textrank](https://github.com/summanlp/textrank)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker)
+- Download pre-trained word vectors: [chakin](https://github.com/chakki-works/chakin)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
