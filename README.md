@@ -25,6 +25,9 @@ Curated list of useful libraries for day to day work
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
 
+## Visualization
+- Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
+
 ## Scalability
 - Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
   
