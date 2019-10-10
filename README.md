@@ -39,6 +39,7 @@ Curated list of useful libraries for day to day work
 - Summarize text using texrank: [textrank](https://github.com/summanlp/textrank)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker)
 - Download pre-trained word vectors: [chakin](https://github.com/chakki-works/chakin)
+- Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
