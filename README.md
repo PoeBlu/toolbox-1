@@ -1,5 +1,5 @@
 # toolbox
-Curated list of useful libraries for day to day work
+Curated libraries for a faster workflow
 
 ## Annotation
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
