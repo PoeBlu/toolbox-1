@@ -37,7 +37,7 @@ Curated list of useful libraries for day to day work
 - Scikit-learn like API for NLP transfer learning(BERT, GPT2, etc.): [finetune](https://github.com/IndicoDataSolutions/finetune)
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 - Summarize text using texrank: [textrank](https://github.com/summanlp/textrank)
-- Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker)
+- Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell)
 - Download pre-trained word vectors: [chakin](https://github.com/chakki-works/chakin)
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 
