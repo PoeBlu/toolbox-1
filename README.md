@@ -41,6 +41,7 @@ Curated libraries for a faster workflow
 - Download pre-trained word vectors: [chakin](https://github.com/chakki-works/chakin)
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 - A text file containing over 466k English words: [english-words](https://github.com/dwyl/english-words)
+- Easy train sequence to sequence models:[headliner](https://github.com/as-ideas/headliner)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
