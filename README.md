@@ -43,6 +43,7 @@ Curated libraries for a faster workflow
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 - A text file containing over 466k English words: [english-words](https://github.com/dwyl/english-words)
 - Easy train sequence to sequence models:[headliner](https://github.com/as-ideas/headliner)
+- Perform K-means with cosine distance: [spherecluster](https://github.com/jasonlaska/spherecluster)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
