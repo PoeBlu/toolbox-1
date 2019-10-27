@@ -18,6 +18,7 @@ Curated libraries for a faster workflow
 
 ## Models
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+- Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
