@@ -9,6 +9,7 @@ Curated libraries for a faster workflow
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
+- Read config files: [config](https://pypi.org/project/config/)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
