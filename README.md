@@ -11,6 +11,12 @@ Curated libraries for a faster workflow
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
 - Read config files: [config](https://pypi.org/project/config/)
 - Validate JSON in Flask: [schema](https://github.com/keleshev/schema)
+- bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
+- Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
+- Readymade common regex for email/phone etc: [CommonRegex](https://github.com/madisonmay/CommonRegex)
+- Verbal expressions for python: [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)
+- Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
+- Extract and Replace keywords: [flashtext](https://github.com/vi3k6i5/flashtext)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
@@ -51,10 +57,3 @@ Curated libraries for a faster workflow
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
-
-## Python
-- bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
-- Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
-- Readymade common regex for email/phone etc: [CommonRegex](https://github.com/madisonmay/CommonRegex)
-- Verbal expressions for python: [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)
-- Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
