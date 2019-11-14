@@ -17,6 +17,7 @@ Curated libraries for a faster workflow
 - Verbal expressions for python: [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)
 - Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
 - Extract and Replace keywords: [flashtext](https://github.com/vi3k6i5/flashtext)
+- Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
