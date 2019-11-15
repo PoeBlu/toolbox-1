@@ -53,6 +53,10 @@ Curated libraries for a faster workflow
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
 
+## Hyperparameter Optimization
+- Keras models: [keras-tuner](https://github.com/keras-team/keras-tuner)
+- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
+
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
 
