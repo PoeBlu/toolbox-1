@@ -21,6 +21,7 @@ Curated libraries for a faster workflow
 - Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
 - Extract and Replace keywords: [flashtext](https://github.com/vi3k6i5/flashtext)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
+- Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
