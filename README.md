@@ -35,15 +35,6 @@ Curated libraries for a faster workflow
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
 - Get notified by slack/email when model training finishes: [knockknock](https://github.com/huggingface/knockknock)
-
-## Interpretability
-- Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
-
-## Visualization
-- Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
-
-## Scalability
-- Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
   
 ## NLP
 - Use GP2 to generate text: [gp2client](https://github.com/rish-16/gpt2client)
@@ -61,3 +52,12 @@ Curated libraries for a faster workflow
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
+
+## Interpretability
+- Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
+
+## Visualization
+- Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
+
+## Scalability
+- Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
