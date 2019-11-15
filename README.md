@@ -5,6 +5,9 @@ Curated libraries for a faster workflow
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
 - Annotate Text: [doccano](https://doccano.herokuapp.com/)
 
+## Development
+- Expose local server to internet: [localtunnel](https://localtunnel.github.io/www/)
+
 ## Python
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
