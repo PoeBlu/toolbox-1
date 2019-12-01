@@ -51,6 +51,7 @@ Curated libraries for a faster workflow
 - Easy train sequence to sequence models:[headliner](https://github.com/as-ideas/headliner)
 - Perform K-means with cosine distance: [spherecluster](https://github.com/jasonlaska/spherecluster)
 - Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
+- Manage vector embeddings easily: [pymagnitude](https://github.com/plasticityai/magnitude)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
