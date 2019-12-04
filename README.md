@@ -22,6 +22,7 @@ Curated libraries for a faster workflow
 - Extract and Replace keywords: [flashtext](https://github.com/vi3k6i5/flashtext)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 - Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
+- Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
 
 ## EDA
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
@@ -44,7 +45,7 @@ Curated libraries for a faster workflow
 - Train own text generation RNN: [textgenrnn](https://github.com/minimaxir/textgenrnn)
 - Scikit-learn like API for NLP transfer learning(BERT, GPT2, etc.): [finetune](https://github.com/IndicoDataSolutions/finetune)
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
-- Summarize text using texrank: [textrank](https://github.com/summanlp/textrank)
+- Text summarization: [textrank](https://github.com/summanlp/textrank)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell)
 - Download pre-trained word vectors: [chakin](https://github.com/chakki-works/chakin)
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
@@ -53,6 +54,8 @@ Curated libraries for a faster workflow
 - Perform K-means with cosine distance: [spherecluster](https://github.com/jasonlaska/spherecluster)
 - Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 - Manage vector embeddings easily: [pymagnitude](https://github.com/plasticityai/magnitude)
+- Keyword extraction: [RAKE](https://github.com/zelandiya/RAKE-tutorial)
+- Perform string and phonetic comparison: [jellyfish](https://pypi.org/project/jellyfish/)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
