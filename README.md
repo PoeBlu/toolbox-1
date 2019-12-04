@@ -55,7 +55,7 @@ Curated libraries for a faster workflow
 - Perform K-means with cosine distance: [spherecluster](https://github.com/jasonlaska/spherecluster)
 - Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 - Manage vector embeddings easily: [pymagnitude](https://github.com/plasticityai/magnitude)
-- Keyword extraction: [RAKE](https://github.com/zelandiya/RAKE-tutorial)
+- Keyword extraction: [RAKE](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke)
 - Perform string and phonetic comparison: [jellyfish](https://pypi.org/project/jellyfish/)
 
 ## RecSys
