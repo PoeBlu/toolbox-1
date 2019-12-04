@@ -35,6 +35,7 @@ Curated libraries for a faster workflow
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 - Plot realtime learning curve in Keras: [lrcurve](https://github.com/AndreasMadsen/python-lrcurve)
 - Notify when task is completed in jupyter: [jupyter-notify](https://github.com/ShopRunner/jupyter-notify)
+- Extra utilities not present in frameworks: [mlxtend](https://github.com/rasbt/mlxtend)
 
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
