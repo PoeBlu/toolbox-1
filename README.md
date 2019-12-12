@@ -5,6 +5,9 @@ Curated libraries for a faster workflow
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
 - Annotate Text: [doccano](https://doccano.herokuapp.com/)
 
+## Data
+- NLP: [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+
 ## Development
 - Expose local server to internet: [localtunnel](https://localtunnel.github.io/www/)
 
