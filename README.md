@@ -16,7 +16,7 @@ Curated libraries for a faster workflow
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
 - Read config files: [config](https://pypi.org/project/config/)
-- Validate JSON in Flask: [schema](https://github.com/keleshev/schema)
+- Validate JSON in Flask: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/)
 - bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
 - Readymade common regex for email/phone etc: [CommonRegex](https://github.com/madisonmay/CommonRegex)
