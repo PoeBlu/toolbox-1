@@ -11,6 +11,7 @@ Curated libraries for a faster workflow
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 - A text file containing over 466k English words: [english-words](https://github.com/dwyl/english-words)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
+- Search engines: [datasetlist](https://www.datasetlist.com/)
 
 ## Fetch data
 - Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
@@ -81,9 +82,12 @@ Curated libraries for a faster workflow
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
+- Interpret models: [eli5](https://eli5.readthedocs.io/en/latest/), [lime](https://github.com/marcotcr/lime), [shap](https://github.com/slundberg/shap), [alibi](https://github.com/SeldonIO/alibi), [tf-explain](https://github.com/sicara/tf-explain)
+- Interpret BERT: [exbert](http://exbert.net/exBERT.html?sentence=I%20liked%20the%20music&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..9&metaMatch=pos&metaMax=pos&displayInspector=null&offsetIdxs=..-1,0,1&hideClsSep=true)
 
 ## Visualization
 - Draw CNN figures: [nn-svg](http://alexlenail.me/NN-SVG/LeNet.html)
+- Visualization for scikit-learn: [yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
 
 # Phase: Production
 ## Scalability
