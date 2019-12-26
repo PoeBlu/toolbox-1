@@ -46,6 +46,9 @@ Curated libraries for a faster workflow
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
 
+## Framework extensions
+- Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary)
+
 ## NLP
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn)
 - Text summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR)
