@@ -98,7 +98,7 @@ Curated libraries for a faster workflow
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
 
-## Adverserial testing
+## Adversarial testing
 - Generate images to fool model: [foolbox](https://github.com/bethgelab/foolbox)
 
 ## Python libraries
