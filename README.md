@@ -15,7 +15,6 @@ Curated libraries for a faster workflow
 - Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
-- Download pre-trained word vectors: [chakin](https://github.com/chakki-works/chakin)
 
 # Exploration Phase
 
@@ -42,10 +41,10 @@ Curated libraries for a faster workflow
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 - Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
-- Embeddings: [Manage vector embeddings easily: pymagnitude](https://github.com/plasticityai/magnitude)
+- Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
+- String matching: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [PythonVerbalExpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [CommonRegex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
 - Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
-- String search: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
@@ -58,13 +57,12 @@ Curated libraries for a faster workflow
 
 # Monitoring phase
 ## Monitor training process
-- Get notified by slack/email when model training finishes: [knockknock](https://github.com/huggingface/knockknock)
-- Plot realtime learning curve in Keras: [lrcurve](https://github.com/AndreasMadsen/python-lrcurve)
-- Notify when task is completed in jupyter: [jupyter-notify](https://github.com/ShopRunner/jupyter-notify)
+- Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve)
+- Notifications: [knockknock (get notified by slack/email)](https://github.com/huggingface/knockknock), [jupyter-notify (notify when task is completed in jupyter)](https://github.com/ShopRunner/jupyter-notify)
 
 # Optimization phase
 ## Hyperparameter Optimization
-- Keras models: [keras-tuner](https://github.com/keras-team/keras-tuner)
+- Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
@@ -72,21 +70,19 @@ Curated libraries for a faster workflow
 ## Visualization
 - Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
 
-
 # Production phase
 ## Scalability
 - Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
 
-## Python
-- Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
-- Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
+## API
 - Read config files: [config](https://pypi.org/project/config/)
 - Validate JSON in Flask: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/)
-- bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
-- Readymade common regex for email/phone etc: [CommonRegex](https://github.com/madisonmay/CommonRegex)
-- Verbal expressions for python: [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)
-- Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
-- Extract and Replace keywords: [flashtext](https://github.com/vi3k6i5/flashtext)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
+- Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
+
+## Python libraries
+- Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
+- bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
+- Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
 - Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
