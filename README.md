@@ -37,13 +37,13 @@ Curated libraries for a faster workflow
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn)
 - Text summarization: [textrank](https://github.com/summanlp/textrank)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries)
-- Keyword extraction: [RAKE](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke)
+- Keyword extraction: [rake](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke)
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 - Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
-- String matching: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [PythonVerbalExpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [CommonRegex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
+- String matching: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
 - Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 
 ## RecSys
@@ -68,7 +68,7 @@ Curated libraries for a faster workflow
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
 
 ## Visualization
-- Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
+- Draw CNN figures: [nn-svg](http://alexlenail.me/NN-SVG/LeNet.html)
 
 # Phase: Production
 ## Scalability
