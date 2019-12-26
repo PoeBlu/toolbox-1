@@ -46,10 +46,11 @@ Curated libraries for a faster workflow
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
-- Search engine for models: [modeldepot](https://modeldepot.io/browse)
+- Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub)
 
 ## Framework extensions
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary)
+- Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 
 ## NLP
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn)
@@ -61,7 +62,7 @@ Curated libraries for a faster workflow
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Translation: [googletrans](https://pypi.org/project/googletrans/)
 - Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin)
-- Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html)
+- Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk)
 - Inflections: [inflect](https://pypi.org/project/inflect/)
 - Contractions: [pycontractions](https://pypi.org/project/pycontractions/)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
@@ -73,6 +74,7 @@ Curated libraries for a faster workflow
 
 ## Computer Vision
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
+- Face recognition: [face_recognition](https://github.com/ageitgey/face_recognition)
 
 ## Timeseries
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
@@ -97,6 +99,7 @@ Curated libraries for a faster workflow
 - Visualization for scikit-learn: [yellowbrick](https://www.scikit-yb.org/en/latest/index.html), [scikit-plot](https://scikit-plot.readthedocs.io/en/stable/metrics.html)
 - XKCD like charts: [chart.xkcd](https://timqian.com/chart.xkcd/)
 - Convert matplotlib charts to D3 charts: [mpld3](http://mpld3.github.io/index.html)
+- Generate graphs using markdown: [mermaid](https://mermaid-js.github.io/mermaid/#/README)
 
 # Phase: Production
 ## Scalability
