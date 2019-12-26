@@ -40,14 +40,17 @@ Curated libraries for a faster workflow
 ## Models
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
-- Plot realtime learning curve in Keras: [lrcurve](https://github.com/AndreasMadsen/python-lrcurve)
-- Notify when task is completed in jupyter: [jupyter-notify](https://github.com/ShopRunner/jupyter-notify)
 - Extra utilities not present in frameworks: [mlxtend](https://github.com/rasbt/mlxtend)
 
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
+- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
+
+## Monitoring
 - Get notified by slack/email when model training finishes: [knockknock](https://github.com/huggingface/knockknock)
-  
+- Plot realtime learning curve in Keras: [lrcurve](https://github.com/AndreasMadsen/python-lrcurve)
+- Notify when task is completed in jupyter: [jupyter-notify](https://github.com/ShopRunner/jupyter-notify)
+
 ## NLP
 - Use GP2 to generate text: [gp2client](https://github.com/rish-16/gpt2client)
 - Train own text generation RNN: [textgenrnn](https://github.com/minimaxir/textgenrnn)
@@ -70,7 +73,6 @@ Curated libraries for a faster workflow
 
 ## Hyperparameter Optimization
 - Keras models: [keras-tuner](https://github.com/keras-team/keras-tuner)
-- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
