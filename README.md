@@ -12,6 +12,8 @@ Curated libraries for a faster workflow
 - Expose local server to internet: [localtunnel](https://localtunnel.github.io/www/)
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
 - Parametrize notebooks: [papermill](https://github.com/nteract/papermill)
+- Access notebooks programatically: [nbformat](https://nbformat.readthedocs.io/en/latest/api.html)
+- Convert notebooks to other formats: [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
 
 ## Python
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
