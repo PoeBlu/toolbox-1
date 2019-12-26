@@ -35,18 +35,17 @@ Curated libraries for a faster workflow
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
 
 ## NLP
-- Use GP2 to generate text: [gp2client](https://github.com/rish-16/gpt2client)
-- Train own text generation RNN: [textgenrnn](https://github.com/minimaxir/textgenrnn)
-- Scikit-learn like API for NLP transfer learning(BERT, GPT2, etc.): [finetune](https://github.com/IndicoDataSolutions/finetune)
+- Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn)
 - Text summarization: [textrank](https://github.com/summanlp/textrank)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries)
-- Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
-- Easy train sequence to sequence models:[headliner](https://github.com/as-ideas/headliner)
-- Perform K-means with cosine distance: [spherecluster](https://github.com/jasonlaska/spherecluster)
-- Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
-- Manage vector embeddings easily: [pymagnitude](https://github.com/plasticityai/magnitude)
 - Keyword extraction: [RAKE](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke)
-- Perform string and phonetic comparison: [jellyfish](https://pypi.org/project/jellyfish/)
+- Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
+- Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
+- Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
+- Embeddings: [Manage vector embeddings easily: pymagnitude](https://github.com/plasticityai/magnitude)
+- Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
+- Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
+- String search: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
@@ -72,6 +71,7 @@ Curated libraries for a faster workflow
 
 ## Visualization
 - Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
+
 
 # Production phase
 ## Scalability
