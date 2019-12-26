@@ -36,6 +36,7 @@ Curated libraries for a faster workflow
 - Access notebooks programatically: [nbformat](https://nbformat.readthedocs.io/en/latest/api.html)
 - Convert notebooks to other formats: [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
 - Extra utilities not present in frameworks: [mlxtend](https://github.com/rasbt/mlxtend)
+- Maps in notebooks: [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
 # Phase: Feature Engineering
 ## Generate Features
@@ -44,7 +45,8 @@ Curated libraries for a faster workflow
 # Phase: Modeling
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
-- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
+- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
+- Search engine for models: [modeldepot](https://modeldepot.io/browse)
 
 ## Framework extensions
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary)
@@ -87,10 +89,13 @@ Curated libraries for a faster workflow
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
 - Interpret models: [eli5](https://eli5.readthedocs.io/en/latest/), [lime](https://github.com/marcotcr/lime), [shap](https://github.com/slundberg/shap), [alibi](https://github.com/SeldonIO/alibi), [tf-explain](https://github.com/sicara/tf-explain)
 - Interpret BERT: [exbert](http://exbert.net/exBERT.html?sentence=I%20liked%20the%20music&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..9&metaMatch=pos&metaMax=pos&displayInspector=null&offsetIdxs=..-1,0,1&hideClsSep=true)
+- Interpret word2vec: [word2viz](https://lamyiowce.github.io/word2viz/)
 
 ## Visualization
 - Draw CNN figures: [nn-svg](http://alexlenail.me/NN-SVG/LeNet.html)
-- Visualization for scikit-learn: [yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
+- Visualization for scikit-learn: [yellowbrick](https://www.scikit-yb.org/en/latest/index.html), [scikit-plot](https://scikit-plot.readthedocs.io/en/stable/metrics.html)
+- XKCD like charts: [chart.xkcd](https://timqian.com/chart.xkcd/)
+- Convert matplotlib charts to D3 charts: [mpld3](http://mpld3.github.io/index.html)
 
 # Phase: Production
 ## Scalability
@@ -114,3 +119,4 @@ Curated libraries for a faster workflow
 - Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
 - Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
+- Leaflet maps from python: [folium](https://python-visualization.github.io/folium/)
