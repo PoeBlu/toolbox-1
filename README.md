@@ -46,7 +46,7 @@ Curated libraries for a faster workflow
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
-- Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub)
+- Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota)
 
 ## Framework extensions
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary)
@@ -75,6 +75,9 @@ Curated libraries for a faster workflow
 ## Computer Vision
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 - Face recognition: [face_recognition](https://github.com/ageitgey/face_recognition)
+- Face swapping: [faceit](https://github.com/goberoi/faceit)
+- Video summarization: [videodigest](https://github.com/agermanidis/videodigest)
+- Semantic search over videos: [scoper](https://github.com/RameshAditya/scoper)
 
 ## Timeseries
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
