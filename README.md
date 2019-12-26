@@ -15,9 +15,11 @@ Curated libraries for a faster workflow
 - Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
+- Auto fetch images from web for certain search: [py-image-dataset-generator](https://github.com/tomahim/py-image-dataset-generator)
 
 ## Data Augmentation
 - Text data: [nlpaug](https://github.com/makcedward/nlpaug)
+- Image: [imgaug](https://github.com/aleju/imgaug/), [albumentations](https://github.com/albumentations-team/albumentations), [augmentor](https://github.com/mdbloice/Augmentor)
 
 # Phase: Exploration
 
@@ -85,6 +87,9 @@ Curated libraries for a faster workflow
 - Validate JSON in Flask: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
+
+## Adverserial testing
+- Generate images to fool model: [foolbox](https://github.com/bethgelab/foolbox)
 
 ## Python libraries
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
