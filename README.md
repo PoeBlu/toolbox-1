@@ -7,11 +7,9 @@ Curated libraries for a faster workflow
 - Annotate Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
 
 ## Dataset
-- NLP: [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
-- swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
-- A text file containing over 466k English words: [english-words](https://github.com/dwyl/english-words)
+- Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words](https://github.com/dwyl/english-words)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
-- Search engines: [datasetlist](https://www.datasetlist.com/)
+- Dataset search engine: [datasetlist](https://www.datasetlist.com/)
 
 ## Fetch data
 - Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
