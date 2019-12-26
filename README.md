@@ -1,7 +1,7 @@
 # toolbox
 Curated libraries for a faster workflow
 
-# Data Phase
+# Phase: Data
 ## Annotation
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
 - Annotate Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
@@ -16,7 +16,7 @@ Curated libraries for a faster workflow
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
 
-# Exploration Phase
+# Phase: Exploration
 
 ## Clean data
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
@@ -28,7 +28,7 @@ Curated libraries for a faster workflow
 - Convert notebooks to other formats: [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
 - Extra utilities not present in frameworks: [mlxtend](https://github.com/rasbt/mlxtend)
 
-# Modeling phase
+# Phase: Modeling
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs)
@@ -55,12 +55,12 @@ Curated libraries for a faster workflow
 ## Timeseries
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
 
-# Monitoring phase
+# Phase: Monitoring
 ## Monitor training process
 - Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve)
 - Notifications: [knockknock (get notified by slack/email)](https://github.com/huggingface/knockknock), [jupyter-notify (notify when task is completed in jupyter)](https://github.com/ShopRunner/jupyter-notify)
 
-# Optimization phase
+# Phase: Optimization
 ## Hyperparameter Optimization
 - Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
 
@@ -70,7 +70,7 @@ Curated libraries for a faster workflow
 ## Visualization
 - Draw CNN figures: [NN-SVG](http://alexlenail.me/NN-SVG/LeNet.html)
 
-# Production phase
+# Phase: Production
 ## Scalability
 - Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
 
