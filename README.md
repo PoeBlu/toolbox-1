@@ -3,7 +3,7 @@ Curated libraries for a faster workflow
 
 ## Annotation
 - Annotate Image: [makesense.ai](https://www.makesense.ai/) 
-- Annotate Text: [doccano](https://doccano.herokuapp.com/)
+- Annotate Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
 
 ## Data
 - NLP: [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
