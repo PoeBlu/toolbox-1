@@ -10,12 +10,15 @@ Curated libraries for a faster workflow
 - NLP: [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 - swear-words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 - A text file containing over 466k English words: [english-words](https://github.com/dwyl/english-words)
+- Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
 
 ## Fetch data
 - Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
 - Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
 - Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
 - Auto fetch images from web for certain search: [py-image-dataset-generator](https://github.com/tomahim/py-image-dataset-generator)
+- Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
+- News crawler: [news-please](https://github.com/fhamborg/news-please)
 
 ## Data Augmentation
 - Text data: [nlpaug](https://github.com/makcedward/nlpaug)
@@ -32,6 +35,10 @@ Curated libraries for a faster workflow
 - Access notebooks programatically: [nbformat](https://nbformat.readthedocs.io/en/latest/api.html)
 - Convert notebooks to other formats: [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
 - Extra utilities not present in frameworks: [mlxtend](https://github.com/rasbt/mlxtend)
+
+# Phase: Feature Engineering
+## Generate Features
+- Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/)
 
 # Phase: Modeling
 ## Model Selection
@@ -65,7 +72,7 @@ Curated libraries for a faster workflow
 
 # Phase: Monitoring
 ## Monitor training process
-- Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve)
+- Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve), [livelossplot](https://github.com/stared/livelossplot)
 - Notifications: [knockknock (get notified by slack/email)](https://github.com/huggingface/knockknock), [jupyter-notify (notify when task is completed in jupyter)](https://github.com/ShopRunner/jupyter-notify)
 
 # Phase: Optimization
@@ -81,6 +88,9 @@ Curated libraries for a faster workflow
 # Phase: Production
 ## Scalability
 - Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
+
+## Bechmarking
+- Profile pytorch layers: [torchprof](https://github.com/awwong1/torchprof)
 
 ## API
 - Read config files: [config](https://pypi.org/project/config/)
