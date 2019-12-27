@@ -7,7 +7,7 @@ Curated libraries for a faster workflow
 - Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
 
 ## Dataset
-- Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words](https://github.com/dwyl/english-words)
+- Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/)
 
