@@ -18,6 +18,9 @@ Curated libraries for a faster workflow
 - Auto fetch images from web for certain search: [py-image-dataset-generator](https://github.com/tomahim/py-image-dataset-generator)
 - Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
 - News crawler: [news-please](https://github.com/fhamborg/news-please)
+- Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
+- PDF: [camelot](https://camelot-py.readthedocs.io/en/master/), [tabula-py](https://github.com/chezou/tabula-py)
+- Browser automation: [pyppeteer](https://github.com/miyakogi/pyppeteer)
 
 ## Data Augmentation
 - Text data: [nlpaug](https://github.com/makcedward/nlpaug)
@@ -27,6 +30,7 @@ Curated libraries for a faster workflow
 
 ## Clean data
 - Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
+- Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
 
 ## Experiment in notebooks
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
@@ -51,6 +55,7 @@ Curated libraries for a faster workflow
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 
 ## NLP
+- Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn)
 - Text summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect)
@@ -59,8 +64,9 @@ Curated libraries for a faster workflow
 - Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Translation: [googletrans](https://pypi.org/project/googletrans/)
-- Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin)
+- Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 - Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk)
+- NLU: [snips-nlu](https://github.com/snipsco/snips-nlu)
 - Inflections: [inflect](https://pypi.org/project/inflect/)
 - Contractions: [pycontractions](https://pypi.org/project/pycontractions/)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
@@ -69,6 +75,7 @@ Curated libraries for a faster workflow
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
+- Scikit-learn like API: [surprise](https://github.com/NicolasHug/Surprise)
 
 ## Computer Vision
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
@@ -110,7 +117,7 @@ Curated libraries for a faster workflow
 - Profile pytorch layers: [torchprof](https://github.com/awwong1/torchprof)
 
 ## API
-- Read config files: [config](https://pypi.org/project/config/)
+- Read config files: [config](https://pypi.org/project/config/), [python-decouple](https://github.com/henriquebastos/python-decouple)
 - Validate JSON in Flask: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
@@ -122,6 +129,6 @@ Curated libraries for a faster workflow
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
 - bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
 - Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
-- Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
 - Leaflet maps from python: [folium](https://python-visualization.github.io/folium/)
+- Debugging: [PySnooper](https://github.com/cool-RR/PySnooper)
