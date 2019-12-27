@@ -3,8 +3,8 @@ Curated libraries for a faster workflow
 
 # Phase: Data
 ## Annotation
-- Annotate Image: [makesense.ai](https://www.makesense.ai/) 
-- Annotate Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
+- Image: [makesense.ai](https://www.makesense.ai/) 
+- Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
 
 ## Dataset
 - Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words](https://github.com/dwyl/english-words)
@@ -12,24 +12,24 @@ Curated libraries for a faster workflow
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/)
 
 ## Fetch data
-- Manipulate audio with a simple and easy high level interface: [pydub](https://github.com/jiaaro/pydub)
-- Download YouTube vidoes: [pytube](https://github.com/nficano/pytube)
-- Manipulate Google Sheets with Python: [gspread](https://github.com/burnash/gspread)
-- Auto fetch images from web for certain search: [py-image-dataset-generator](https://github.com/tomahim/py-image-dataset-generator)
-- Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
-- News crawler: [news-please](https://github.com/fhamborg/news-please)
-- Open remote files directly: [smart_open](https://github.com/RaRe-Technologies/smart_open)
+- Audio: [pydub](https://github.com/jiaaro/pydub)
+- Video: [pytube (download youTube vidoes)](https://github.com/nficano/pytube)
+- Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
+- News: [news-please](https://github.com/fhamborg/news-please)
 - PDF: [camelot](https://camelot-py.readthedocs.io/en/master/), [tabula-py](https://github.com/chezou/tabula-py)
-- Browser automation: [pyppeteer](https://github.com/miyakogi/pyppeteer)
+- Remote file: [smart_open](https://github.com/RaRe-Technologies/smart_open)
+- Crawling: [pyppeteer (chrome automation)](https://github.com/miyakogi/pyppeteer)
+- Google sheets: [gspread](https://github.com/burnash/gspread)
+- Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
 
 ## Data Augmentation
-- Text data: [nlpaug](https://github.com/makcedward/nlpaug)
+- Text: [nlpaug](https://github.com/makcedward/nlpaug)
 - Image: [imgaug](https://github.com/aleju/imgaug/), [albumentations](https://github.com/albumentations-team/albumentations), [augmentor](https://github.com/mdbloice/Augmentor)
 
 # Phase: Exploration
 
-## Clean data
-- Missing data visualization module for Python: [missingno](https://github.com/ResidentMario/missingno)
+##  Data Preparation
+- Missing values: [missingno](https://github.com/ResidentMario/missingno)
 - Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
 
 ## Experiment in notebooks
@@ -70,8 +70,8 @@ Curated libraries for a faster workflow
 - Inflections: [inflect](https://pypi.org/project/inflect/)
 - Contractions: [pycontractions](https://pypi.org/project/pycontractions/)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
-- String matching: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
-- Create wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
+- String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
+- wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
