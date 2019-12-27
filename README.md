@@ -118,7 +118,7 @@ Curated libraries for a faster workflow
 
 ## API
 - Read config files: [config](https://pypi.org/project/config/), [python-decouple](https://github.com/henriquebastos/python-decouple)
-- Validate JSON in Flask: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/)
+- Data Validation: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/), [cerebrus](https://github.com/pyeve/cerberus)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
 
