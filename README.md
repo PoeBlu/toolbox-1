@@ -46,7 +46,7 @@ Curated libraries for a faster workflow
 
 # Phase: Modeling
 ## Model Selection
-- Bruteforce through all scikit-learn model and parameters: [hungabunga](https://github.com/ypeleg/HungaBunga)
+- Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota)
 
