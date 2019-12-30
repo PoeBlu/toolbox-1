@@ -53,6 +53,7 @@ Curated libraries for a faster workflow
 ## Framework extensions
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary)
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
+- Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
