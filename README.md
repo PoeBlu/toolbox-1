@@ -130,6 +130,7 @@ Curated libraries for a faster workflow
 - Data Validation: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/), [cerebrus](https://github.com/pyeve/cerberus)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
 - Cache results of functions: [cachetools](https://pypi.org/project/cachetools/)
+- Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 
 ## Adversarial testing
 - Generate images to fool model: [foolbox](https://github.com/bethgelab/foolbox)
