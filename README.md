@@ -50,6 +50,7 @@ Curated libraries for a faster workflow
 - Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota)
+- Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
 
 ## Framework extensions
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary)
