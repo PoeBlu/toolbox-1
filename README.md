@@ -21,6 +21,7 @@ Curated libraries for a faster workflow
 - Crawling: [pyppeteer (chrome automation)](https://github.com/miyakogi/pyppeteer)
 - Google sheets: [gspread](https://github.com/burnash/gspread)
 - Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
+- Google maps location data: [geo-heatmap](https://github.com/luka1199/geo-heatmap)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug)
