@@ -59,6 +59,7 @@ Curated libraries for a faster workflow
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
+- Text Extraction from Image, Audio, PDF: [textract](https://textract.readthedocs.io/en/stable/)
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)
 - Text summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR)
 - Spelling correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect)
@@ -67,12 +68,15 @@ Curated libraries for a faster workflow
 - Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Translation: [googletrans](https://pypi.org/project/googletrans/)
-- Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers), [InferSent](https://github.com/facebookresearch/InferSent)
+- Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers), [InferSent](https://github.com/facebookresearch/InferSent), [bert-as-service](https://github.com/hanxiao/bert-as-service)
 - Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk)
 - NLU: [snips-nlu](https://github.com/snipsco/snips-nlu)
 - Inflections: [inflect](https://pypi.org/project/inflect/)
 - Contractions: [pycontractions](https://pypi.org/project/pycontractions/)
 - Coreference Resolution: [neuralcoref](https://github.com/huggingface/neuralcoref)
+- Readability: [homer](https://github.com/wyounas/homer)
+- Language Detection: [language-check](https://github.com/myint/language-check)
+- Topic Modeling: [guidedlda](https://github.com/vi3k6i5/guidedlda)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
 - String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
@@ -128,6 +132,7 @@ Curated libraries for a faster workflow
 
 ## Adversarial testing
 - Generate images to fool model: [foolbox](https://github.com/bethgelab/foolbox)
+- Generate phrases to fool NLP models: [triggers](https://www.ericswallace.com/triggers)
 
 ## Python libraries
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
