@@ -69,7 +69,7 @@ Curated libraries for a faster workflow
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Translation: [googletrans](https://pypi.org/project/googletrans/)
 - Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers), [InferSent](https://github.com/facebookresearch/InferSent), [bert-as-service](https://github.com/hanxiao/bert-as-service)
-- Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk)
+- Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk), [indic_nlp](https://github.com/anoopkunchukuttan/indic_nlp_library)
 - NLU: [snips-nlu](https://github.com/snipsco/snips-nlu)
 - Inflections: [inflect](https://pypi.org/project/inflect/)
 - Contractions: [pycontractions](https://pypi.org/project/pycontractions/)
