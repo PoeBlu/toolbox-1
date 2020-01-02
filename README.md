@@ -104,6 +104,7 @@ Curated libraries for a faster workflow
 # Phase: Optimization
 ## Hyperparameter Optimization
 - Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
+- General: [hyperopt](https://github.com/hyperopt/hyperopt)
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
