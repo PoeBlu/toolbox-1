@@ -144,3 +144,4 @@ Curated libraries for a faster workflow
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
 - Leaflet maps from python: [folium](https://python-visualization.github.io/folium/)
 - Debugging: [PySnooper](https://github.com/cool-RR/PySnooper)
+- Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle)
