@@ -85,6 +85,7 @@ Curated libraries for a faster workflow
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster)
 - Metrics: [seqeval (NER, POS tagging)](https://github.com/chakki-works/seqeval)
 - String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
+- Text distances: [textdistance](https://github.com/life4/textdistance)
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 
 ## RecSys
