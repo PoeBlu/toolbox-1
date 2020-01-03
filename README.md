@@ -126,6 +126,7 @@ Curated libraries for a faster workflow
 - XKCD like charts: [chart.xkcd](https://timqian.com/chart.xkcd/)
 - Convert matplotlib charts to D3 charts: [mpld3](http://mpld3.github.io/index.html)
 - Generate graphs using markdown: [mermaid](https://mermaid-js.github.io/mermaid/#/README)
+- Visualize topics models: [pyldavis](https://pyldavis.readthedocs.io/en/latest/)
 
 # Phase: Production
 ## Scalability
