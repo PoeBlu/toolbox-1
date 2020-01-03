@@ -142,6 +142,9 @@ Curated libraries for a faster workflow
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
 
+## Dashboards
+- Generate frontend with python: [streamlit](https://github.com/streamlit/streamlit)
+
 ## Adversarial testing
 - Generate images to fool model: [foolbox](https://github.com/bethgelab/foolbox)
 - Generate phrases to fool NLP models: [triggers](https://www.ericswallace.com/triggers)
