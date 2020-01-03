@@ -32,6 +32,7 @@ Curated libraries for a faster workflow
 ##  Data Preparation
 - Missing values: [missingno](https://github.com/ResidentMario/missingno)
 - Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
+- Class Imbalance: [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)
 
 ## Experiment in notebooks
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
