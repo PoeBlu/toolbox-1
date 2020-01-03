@@ -45,6 +45,7 @@ Curated libraries for a faster workflow
 # Phase: Feature Engineering
 ## Generate Features
 - Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/)
+- Custom distance metric learning: [metric-learn](http://contrib.scikit-learn.org/metric-learn/getting_started.html)
 
 # Phase: Modeling
 ## Model Selection
