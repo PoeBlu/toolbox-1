@@ -59,6 +59,9 @@ Curated libraries for a faster workflow
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 - Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
 
+## Algorithms
+- Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html)
+
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction from Image, Audio, PDF: [textract](https://textract.readthedocs.io/en/stable/)
