@@ -76,6 +76,7 @@ Curated libraries for a faster workflow
 - Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers), [InferSent](https://github.com/facebookresearch/InferSent), [bert-as-service](https://github.com/hanxiao/bert-as-service), [sent2vec](https://github.com/NewKnowledge/nk-sent2vec)
 - Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk), [indic_nlp](https://github.com/anoopkunchukuttan/indic_nlp_library)
 - NLU: [snips-nlu](https://github.com/snipsco/snips-nlu)
+- Semantic parsing: [quepy](https://github.com/machinalis/quepy)
 - Inflections: [inflect](https://pypi.org/project/inflect/)
 - Contractions: [pycontractions](https://pypi.org/project/pycontractions/)
 - Coreference Resolution: [neuralcoref](https://github.com/huggingface/neuralcoref)
@@ -93,6 +94,7 @@ Curated libraries for a faster workflow
 - Scikit-learn like API: [surprise](https://github.com/NicolasHug/Surprise)
 
 ## Computer Vision
+- Image processing: [scikit-image](https://github.com/scikit-image/scikit-image)
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 - Face recognition: [face_recognition](https://github.com/ageitgey/face_recognition)
 - Face swapping: [faceit](https://github.com/goberoi/faceit)
