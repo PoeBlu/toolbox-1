@@ -9,7 +9,7 @@ Curated libraries for a faster workflow
 ## Dataset
 - Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
-- Dataset search engine: [datasetlist](https://www.datasetlist.com/)
+- Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 
 ## Fetch data
 - Audio: [pydub](https://github.com/jiaaro/pydub)
