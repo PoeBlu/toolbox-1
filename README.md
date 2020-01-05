@@ -101,6 +101,7 @@ Curated libraries for a faster workflow
 - Face swapping: [faceit](https://github.com/goberoi/faceit)
 - Video summarization: [videodigest](https://github.com/agermanidis/videodigest)
 - Semantic search over videos: [scoper](https://github.com/RameshAditya/scoper)
+- OCR: [keras-ocr](https://github.com/faustomorales/keras-ocr)
 
 ## Timeseries
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
