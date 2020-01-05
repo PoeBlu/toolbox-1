@@ -88,7 +88,7 @@ Curated libraries for a faster workflow
 - Coreference Resolution: [neuralcoref](https://github.com/huggingface/neuralcoref)
 - Readability: [homer](https://github.com/wyounas/homer)
 - Language Detection: [language-check](https://github.com/myint/language-check)
-- Topic Modeling: [guidedlda](https://github.com/vi3k6i5/guidedlda)
+- Topic Modeling: [guidedlda](https://github.com/vi3k6i5/guidedlda), [enstop](https://github.com/lmcinnes/enstop)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster), [kneed (automatically find number of clusters from elbow curve)](https://github.com/arvkevi/kneed), [kmodes](https://github.com/nicodv/kmodes)
 - Metrics: [seqeval (NER, POS tagging)](https://github.com/chakki-works/seqeval)
 - String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
