@@ -150,6 +150,9 @@ Curated libraries for a faster workflow
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
 
+## Deployment
+- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter)
+
 ## Dashboards
 - Generate frontend with python: [streamlit](https://github.com/streamlit/streamlit)
 
