@@ -153,7 +153,7 @@ Curated libraries for a faster workflow
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
 
-## Deployment
+## Serialization
 - Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen)
 
 ## Dashboards
