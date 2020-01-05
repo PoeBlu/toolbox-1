@@ -90,6 +90,7 @@ Curated libraries for a faster workflow
 - Sentiment: [vaderSentiment (rule based)](https://github.com/cjhutto/vaderSentiment)
 - Text distances: [textdistance](https://github.com/life4/textdistance)
 - PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
+- Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 
 ## Speech Recognition
