@@ -91,6 +91,9 @@ Curated libraries for a faster workflow
 - Text distances: [textdistance](https://github.com/life4/textdistance)
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 
+## Speech Recognition
+- Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
+
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
 - Scikit-learn like API: [surprise](https://github.com/NicolasHug/Surprise)
