@@ -20,6 +20,7 @@ Curated libraries for a faster workflow
 - Remote file: [smart_open](https://github.com/RaRe-Technologies/smart_open)
 - Crawling: [pyppeteer (chrome automation)](https://github.com/miyakogi/pyppeteer), [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup), [libextract](https://github.com/datalib/libextract)
 - Google sheets: [gspread](https://github.com/burnash/gspread)
+- Google drive: [gdown](https://github.com/wkentaro/gdown)
 - Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
 - Google maps location data: [geo-heatmap](https://github.com/luka1199/geo-heatmap)
 
