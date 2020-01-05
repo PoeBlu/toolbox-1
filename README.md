@@ -142,6 +142,7 @@ Curated libraries for a faster workflow
 - Convert matplotlib charts to D3 charts: [mpld3](http://mpld3.github.io/index.html)
 - Generate graphs using markdown: [mermaid](https://mermaid-js.github.io/mermaid/#/README)
 - Visualize topics models: [pyldavis](https://pyldavis.readthedocs.io/en/latest/)
+- High dimensional visualization: [umap](https://github.com/lmcinnes/umap)
 
 # Phase: Production
 ## Scalability
