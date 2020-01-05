@@ -63,6 +63,7 @@ Curated libraries for a faster workflow
 
 ## Algorithms
 - Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html)
+- Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
