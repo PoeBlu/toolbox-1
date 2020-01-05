@@ -65,6 +65,7 @@ Curated libraries for a faster workflow
 - Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html)
 - Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - Genetic Programming: [gplearn](https://gplearn.readthedocs.io/en/stable/index.html)
+- Active Learning: [modal](https://github.com/modAL-python/modAL)
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
