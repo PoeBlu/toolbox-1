@@ -115,6 +115,7 @@ Curated libraries for a faster workflow
 
 ## Timeseries
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+- Scikit-learn like API: [sktime](https://github.com/alan-turing-institute/sktime)
 
 # Phase: Monitoring
 ## Monitor training process
