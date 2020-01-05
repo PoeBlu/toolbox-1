@@ -124,6 +124,7 @@ Curated libraries for a faster workflow
 # Phase: Optimization
 ## Hyperparameter Optimization
 - Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
+- Scikit-learn: [sklearn-deap (evolutionary algorithm for hyperparameter search)](https://github.com/rsteca/sklearn-deap)
 - General: [hyperopt](https://github.com/hyperopt/hyperopt)
 
 ## Interpretability
