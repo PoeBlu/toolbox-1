@@ -66,6 +66,7 @@ Curated libraries for a faster workflow
 - Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - Genetic Programming: [gplearn](https://gplearn.readthedocs.io/en/stable/index.html)
 - Active Learning: [modal](https://github.com/modAL-python/modAL)
+- Rule based classifier: [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
