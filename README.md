@@ -89,6 +89,7 @@ Curated libraries for a faster workflow
 - String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
 - Sentiment: [vaderSentiment (rule based)](https://github.com/cjhutto/vaderSentiment)
 - Text distances: [textdistance](https://github.com/life4/textdistance)
+- PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 
 ## Speech Recognition
